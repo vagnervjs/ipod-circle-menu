@@ -18,6 +18,7 @@ html, body{
 	border-radius: 50%;
 	background: #25282b;
 	zoom: 150%;
+        box-shadow: 0 0 15px #16181d;
 }
 
 .circle li {
